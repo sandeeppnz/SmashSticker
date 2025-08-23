@@ -1,4 +1,4 @@
-# StickerSmash React Native
+# Sample / Test - React Native App
 
 Based on https://docs.expo.dev/tutorial/introduction/
 
